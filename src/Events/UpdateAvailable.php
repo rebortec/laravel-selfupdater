@@ -3,7 +3,7 @@
 namespace Codedge\Updater\Events;
 
 /**
- * UpdateFailed.php.
+ * UpdateAvailable.php.
  *
  * @author Holger Lösken <holger.loesken@codedge.de>
  * @copyright See LICENSE file that was distributed with this source code.
